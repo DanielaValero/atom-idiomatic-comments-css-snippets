@@ -1,10 +1,16 @@
 {
   "name": "atom-idiomatic-comments-css-snippets",
-  "main": "./lib/atom-idiomatic-comments-css-snippets",
-  "repository": "https://github.com/DanielaValero/atom-idiomatic-comments-css-snippets"
   "version": "0.0.1",
   "description": "Idiomatic CSS comment snippets package for atom",
+  "main": "./lib/atom-idiomatic-comments-css-snippets",
+  "repository": "https://github.com/DanielaValero/atom-idiomatic-comments-css-snippets",
   "keywords": [
+    "idiomatic-css",
+    "less",
+    "snippet",
+    "sass",
+    "atom",
+    "css"
   ],
   "activationCommands": {
     "atom-workspace": "atom-idiomatic-comments-css-snippets:toggle"
