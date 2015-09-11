@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Idiomatic CSS comment snippets package for atom",
   "main": "./lib/atom-idiomatic-comments-css-snippets",
-  "repository": "https://github.com/DanielaValero/atom-idiomatic-comments-css-snippets",
+  "repository": "https://github.com/DanielaValero/atom-idiomatic-comments-css-snippets.git",
   "keywords": [
     "idiomatic-css",
     "less",
