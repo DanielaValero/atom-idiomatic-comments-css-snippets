@@ -1,0 +1,31 @@
+'.source.css,source.css.less,source.css.scss,source.css.sass':
+  'Idiomatic css - Basic Comment':
+    'prefix': 'com-basic'
+    'body': '/* ${1} */'
+  'Idiomatic css - Longer Descriptor Comment':
+    'prefix': 'com-long'
+    'body': '/**\n * ${1}\n */'
+  'Idiomatic css - (sass/less) Basic Comment':
+    'prefix': 'com-preprocessor-basic'
+    'body': '// ${1}'
+  'Idiomatic css - (sass/less) Longer Descriptor Comment':
+    'prefix': 'com-preprocessor-long'
+    'body': '//\n// ${1}\n//'
+  'Idiomatic css - (sass/less) Section Comment Block':
+    'prefix': 'com-preprocessor-section'
+    'body': '// ==========================================================================\n// ${1}\n// ==========================================================================\n\n${2}'
+  'Idiomatic css - (sass/less) Sub-Section Comment Block':
+    'prefix': 'com-preprocessos-sub'
+    'body': '//\n// ${1}\n// ==========================================================================\n\n${2}'
+  'Idiomatic css - (sass/less) Todo Comment':
+    'prefix': 'com-preprocessor-todo'
+    'body': '//\n// @TODO\n// ${1}\n//\n\n${2}'
+  'Idiomatic css - Section Comment Block':
+    'prefix': 'com-section'
+    'body': '/* ==========================================================================\n   ${1}\n   ========================================================================== */\n\n${2}'
+  'Idiomatic css - Sub-Section Comment Block':
+    'prefix': 'com-sub'
+    'body': '/*\n   ${1}\n   ========================================================================== */\n\n${2}'
+  'Idiomatic css - Todo Comment':
+    'prefix': 'com-todo'
+    'body': '/**\n * @TODO\n */'
