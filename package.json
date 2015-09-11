@@ -1,6 +1,6 @@
 {
   "name": "atom-idiomatic-comments-css-snippets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Idiomatic CSS comment snippets package for atom",
   "main": "./lib/atom-idiomatic-comments-css-snippets",
   "repository": {
