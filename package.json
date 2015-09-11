@@ -5,7 +5,7 @@
   "main": "./lib/atom-idiomatic-comments-css-snippets",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DanielaValero/atom-idiomatic-comments-css-snippets.git"
+    "url": "https://github.com/DanielaValero/atom-idiomatic-comments-css-snippets"
   },
   "keywords": [
     "idiomatic-css",
@@ -18,7 +18,6 @@
   "activationCommands": {
     "atom-workspace": "atom-idiomatic-comments-css-snippets:toggle"
   },
-  "repository": "https://github.com/atom/atom-idiomatic-comments-css-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
