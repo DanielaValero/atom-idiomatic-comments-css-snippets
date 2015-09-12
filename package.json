@@ -2,7 +2,6 @@
   "name": "atom-idiomatic-comments-css-snippets",
   "version": "0.0.2",
   "description": "Idiomatic CSS comment snippets package for atom",
-  "main": "./lib/atom-idiomatic-comments-css-snippets",
   "repository": {
     "type": "git",
     "url": "https://github.com/DanielaValero/atom-idiomatic-comments-css-snippets"
@@ -16,9 +15,8 @@
     "css"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-idiomatic-comments-css-snippets:toggle"
   },
-  "license": "MIT",
+  "license": "GPLv2",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
